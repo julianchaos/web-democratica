@@ -274,53 +274,6 @@ a:active
 }
 
 /******************************************************************************/
-/*  GAlLERY                                                                   */
-/******************************************************************************/
-.galery-wrapper
-{
-    position: relative;
-}
-.gallery
-{   
-	position: relative;
-    width: 980px;
-    height: 400px;
-    overflow: hidden;
-}
-.gallery-slide-first
-{
-    margin-left: 0 !important;
-}
-
-.gallery-slide
-{
-    width: 980px;
-    height: 400px;
-}
-#gallery-nav
-{	
-	position: relative;
-	top: -25px;
-	margin: 0 auto;
-    text-align: center;
-}
-#gallery-nav a
-{	
-	display: inline-block;
-	width: 75px;
-	height: 7px;
-	margin-right: 10px;
-	background-color: #3c3c3c;
-	border: none;
-	outline: none;
-	cursor: pointer;	
-}
-#gallery-nav a.gallery-nav-active
-{
-	background-color: #e41f3a;
-}
-
-/******************************************************************************/
 /*  OUR TEAM                                                                  */
 /******************************************************************************/
 .socio {
