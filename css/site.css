@@ -250,6 +250,12 @@ a:active
 .our-team {background-color: #c2d64c;}
 .news {background-color: #d82545;}
 .contact-us {background: #1f1f1f url(../images/top_bg/02.jpg) no-repeat;}
+.first-section, .contact-us {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
 
 /******************************************************************************/
 /*  HEADER                                                                    */
