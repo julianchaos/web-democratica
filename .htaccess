@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^webdemocratica\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.webdemocratica\.com$
+RewriteRule ^/?$ "http\:\/\/webdemocratica\.com\.br" [R=301,L]
+
