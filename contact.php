@@ -1,5 +1,5 @@
 <?php
-define('TO_EMAIL', '"Matheus" <maatdias@gmail.com>');
+define('TO_EMAIL', 'webdemocratica@gmail.com');
 
 /* 
 params:
